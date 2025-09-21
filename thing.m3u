@@ -1,0 +1,7 @@
+#EXTM3U billed-msg="Posi+ive's IPTV playlist." url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
+
+#EXTINF:-1 tvg-id="615" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png" group-title="Kids",Cartoon Network    
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
